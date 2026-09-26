@@ -21,5 +21,7 @@ list2.pop()
 print(list2)
 e = sorted(list2)
 print(e)
-
+print(1 in list2)
+print(list2)
+list2[4]= 44
 print(list2)
