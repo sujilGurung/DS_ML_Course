@@ -13,7 +13,3 @@ print(f"Cheapest: {min(prices.values())}")
 print(f"Costliest: {max(prices.values())}")
 print(sorted(prices))
 print(sorted(prices.items()))
-# Your job:
-# 1. add "momo": 150 to the menu
-# 2. print the cheapest and costliest price
-# 3. print item names A-Z with sorted(prices)
