@@ -1,0 +1,23 @@
+Day 13 - Python Revision and MCQs
+
+Today was focused on revising Python concepts and testing my understanding of everything learned so far.
+
+Topics Revised
+- Python fundamentals and type conversion
+- Lists, tuples, sets, and dictionaries
+- Conditional statements and loops
+- User-defined functions
+- Python built-in functions
+- *args and **kwargs
+- Lambda functions
+- map(), filter(), and sorting techniques
+- Git and GitHub fundamentals
+
+Practice and Assessment
+- Solved Python multiple-choice questions (MCQs)
+- Reviewed key concepts from previous lessons
+- Tested my understanding of Python syntax, logic, and functions
+- Identified topics that need more practice
+
+Reflection
+This revision helped reinforce my Python fundamentals and identify areas to improve before moving on to more advanced topics.
